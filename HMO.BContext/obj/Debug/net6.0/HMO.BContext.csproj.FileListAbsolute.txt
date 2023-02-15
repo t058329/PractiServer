@@ -1,0 +1,12 @@
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.BContext.deps.json
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.BContext.dll
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.BContext.pdb
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.BContext.csproj.AssemblyReference.cache
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.BContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.BContext.AssemblyInfoInputs.cache
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.BContext.AssemblyInfo.cs
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.BContext.csproj.CoreCompileInputs.cache
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.BContext.dll
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\refint\HMO.BContext.dll
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.BContext.pdb
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\ref\HMO.BContext.dll

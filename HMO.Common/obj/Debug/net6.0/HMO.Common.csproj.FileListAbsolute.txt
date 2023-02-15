@@ -1,0 +1,15 @@
+C:\פרקטיקום\HMO1\HMO.Common\bin\Debug\net6.0\HMO.Common.deps.json
+C:\פרקטיקום\HMO1\HMO.Common\bin\Debug\net6.0\HMO.Common.dll
+C:\פרקטיקום\HMO1\HMO.Common\bin\Debug\net6.0\HMO.Common.pdb
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.csproj.AssemblyReference.cache
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.AssemblyInfoInputs.cache
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.AssemblyInfo.cs
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.csproj.CoreCompileInputs.cache
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.dll
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\refint\HMO.Common.dll
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.pdb
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\ref\HMO.Common.dll
+C:\פרקטיקום\HMO1\HMO.Common\bin\Debug\net6.0\HMO.Repositories.dll
+C:\פרקטיקום\HMO1\HMO.Common\bin\Debug\net6.0\HMO.Repositories.pdb
+C:\פרקטיקום\HMO1\HMO.Common\obj\Debug\net6.0\HMO.Common.csproj.CopyComplete

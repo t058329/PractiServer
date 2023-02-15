@@ -1,0 +1,17 @@
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.DBContext.deps.json
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.DBContext.runtimeconfig.json
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.DBContext.dll
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.DBContext.pdb
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.Repositories.dll
+C:\פרקטיקום\HMO1\HMO.BContext\bin\Debug\net6.0\HMO.Repositories.pdb
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.csproj.AssemblyReference.cache
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.AssemblyInfoInputs.cache
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.AssemblyInfo.cs
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.csproj.CoreCompileInputs.cache
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.csproj.CopyComplete
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.dll
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\refint\HMO.DBContext.dll
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.pdb
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\HMO.DBContext.genruntimeconfig.cache
+C:\פרקטיקום\HMO1\HMO.BContext\obj\Debug\net6.0\ref\HMO.DBContext.dll

@@ -1,0 +1,8 @@
+C:\פרקטיקום\HMO1\HMO1\bin\Debug\HMO1.exe.config
+C:\פרקטיקום\HMO1\HMO1\bin\Debug\HMO1.exe
+C:\פרקטיקום\HMO1\HMO1\bin\Debug\HMO1.pdb
+C:\פרקטיקום\HMO1\HMO1\obj\Debug\HMO1.csproj.AssemblyReference.cache
+C:\פרקטיקום\HMO1\HMO1\obj\Debug\HMO1.csproj.SuggestedBindingRedirects.cache
+C:\פרקטיקום\HMO1\HMO1\obj\Debug\HMO1.csproj.CoreCompileInputs.cache
+C:\פרקטיקום\HMO1\HMO1\obj\Debug\HMO1.exe
+C:\פרקטיקום\HMO1\HMO1\obj\Debug\HMO1.pdb

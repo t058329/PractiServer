@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KF/G3I88fezleLSayjSIKF4UDYYrgrMWvy8MUfDPTyQ=",
+  "Source": "HMO1.WebAPI",
+  "BasePath": "_content/HMO1.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+C:\פרקטיקום\HMO1\HMO.Repositories\bin\Debug\net6.0\HMO.Repositories.deps.json
+C:\פרקטיקום\HMO1\HMO.Repositories\bin\Debug\net6.0\HMO.Repositories.runtimeconfig.json
+C:\פרקטיקום\HMO1\HMO.Repositories\bin\Debug\net6.0\HMO.Repositories.dll
+C:\פרקטיקום\HMO1\HMO.Repositories\bin\Debug\net6.0\HMO.Repositories.pdb
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.csproj.AssemblyReference.cache
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.AssemblyInfoInputs.cache
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.AssemblyInfo.cs
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.csproj.CoreCompileInputs.cache
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.dll
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\refint\HMO.Repositories.dll
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.pdb
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\HMO.Repositories.genruntimeconfig.cache
+C:\פרקטיקום\HMO1\HMO.Repositories\obj\Debug\net6.0\ref\HMO.Repositories.dll
